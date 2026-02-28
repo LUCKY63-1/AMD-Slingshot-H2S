@@ -11,7 +11,7 @@ It takes a structured travel request (destination, dates, budget, style, compani
 - numeric budget optimization with currency conversion
 - final booking-oriented itinerary
 
-## Architecture
+## System Flow Diagram
 
 ```mermaid
 flowchart LR
