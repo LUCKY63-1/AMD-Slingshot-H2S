@@ -1,0 +1,18 @@
+[project]
+name = "h2s-amd"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "agno[os]>=2.5.4",
+    "ddgs>=9.10.0",
+    "fastapi>=0.133.0",
+    "google-genai>=1.64.0",
+    "groq>=1.0.0",
+    "openai>=2.24.0",
+    "sqlalchemy>=2.0.47",
+    "tavily-python>=0.7.22",
+    "uvicorn>=0.41.0",
+    "yfinance>=1.2.0",
+]
